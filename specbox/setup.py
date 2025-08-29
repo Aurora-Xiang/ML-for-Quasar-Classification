@@ -11,7 +11,7 @@ setuptools.setup(
     description="specbox - A simple tool to manipulate and visualize optical spectra for astronomical research.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Aurora-Xiang/ML-for-Quasar-Classification",
+    url="https://github.com/Aurora-Xiang/ML-for-Quasar-Classification/tree/main/specbox",
     packages=setuptools.find_packages(),
     package_data={
         'specbox': ['data/*'],
