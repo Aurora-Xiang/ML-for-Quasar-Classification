@@ -1,5 +1,5 @@
 # PytorchPAE
-A highly modular pytorch package for easy and fast implementation and training of a [probabilistic autoencoder](https://github.com/VMBoehm/PAE).
+A highly modular pytorch package for easy and fast implementation and training of a [probabilistic autoencoder](https://github.com/Aurora-Xiang/ML-for-Quasar-Classification/tree/main/PytorchPAE).
 
 The current version features 
 - support for fully connected and convolutional AE architectures for 1D and 2D data
@@ -21,7 +21,7 @@ Optional:
 
 Installation:
 ```sh
-git clone https://github.com/VMBoehm/PytorchPAE.git
+git clone https://github.com/Aurora-Xiang/ML-for-Quasar-Classification.git
 ```
 ```sh
 cd PytorchPAE
@@ -34,11 +34,11 @@ pip install -e .
 
 ## Getting started
 
-A tutorial for how to use his package is provided [here](https://github.com/VMBoehm/PytorchPAE/blob/main/notebooks/Tutorial.ipynb)
+A tutorial for how to use this package is provided [here](https://github.com/VMBoehm/PytorchPAE/blob/main/notebooks/Tutorial.ipynb)
 
 ## Citation
 
-If you use this code for your research, please cite our [paper](https://arxiv.org/abs/2006.05479):
+If you use this code for your research, please cite [paper](https://arxiv.org/abs/2006.05479):
 
 ```
 @ARTICLE{PAE,
